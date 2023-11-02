@@ -1,0 +1,16 @@
+package com.CucumberThird;
+
+import io.cucumber.java.After;
+import io.cucumber.java.Before;
+
+public class HooksClass {
+
+	@Before
+	public static void setUp() {
+		HelperClass.setUpDriver();
+	}
+	@After
+	public static void tearDown() {
+		HelperClass.teardown();
+	}
+}
