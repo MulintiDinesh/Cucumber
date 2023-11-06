@@ -1,0 +1,11 @@
+[INFO ] 2023-11-06 15:30:47.554 [main] TestLogger - Logged into Myntra
+[INFO ] 2023-11-06 15:30:47.870 [main] TestLogger - Quitting the driver
+[INFO ] 2023-11-06 15:31:26.258 [main] TestLogger - Logged into Myntra
+[ERROR] 2023-11-06 15:31:30.002 [main] TestLogger - Exception occured
+java.lang.Exception: Element not found
+	at com.cucumberloggers.TestLogger.main(TestLogger.java:26) [test-classes/:?]
+[INFO ] 2023-11-06 15:31:31.542 [main] TestLogger - Quitting the driver
+[INFO ] 2023-11-06 15:40:36.174 [main] TestLogger - Logged into Myntra
+[INFO ] 2023-11-06 15:40:36.467 [main] TestLogger - Quitting the driver
+[INFO ] 2023-11-06 15:48:23.662 [main] TestLogger - Logged into Myntra
+[INFO ] 2023-11-06 15:48:25.226 [main] TestLogger - Quitting the driver
